@@ -11,6 +11,9 @@ public class Ejercicio1 {
     }
 
     public static int hacerSuma(int numero1, int numero2) {
+        int multi = 4 * 8;
+        int rest = 5 - 2;
+        int divi = 4/2;
         return numero1 + numero2;
     }
 
