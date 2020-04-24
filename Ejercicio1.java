@@ -7,7 +7,7 @@ public class Ejercicio1 {
 
         Integer resultado = hacerSuma(numero1, numero2);
 
-        System.out.println("La suma es: " + resultado);
+        System.out.println(resultado);
     }
 
     public static int hacerSuma(int numero1, int numero2) {
